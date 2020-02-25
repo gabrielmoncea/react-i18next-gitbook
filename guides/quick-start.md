@@ -154,4 +154,9 @@ Depending on your learn type you now could read the more in depth [step by step]
 Prefer having code to checkout? Directly dive our examples:
 
 * [Example react](https://github.com/i18next/react-i18next/tree/master/example/react)
+* [Example react-native](https://github.com/i18next/react-i18next/tree/master/example/react-native)
+* [Example razzle-ssr](https://github.com/i18next/react-i18next/tree/master/example/razzle-ssr)
+* [Example storybook](https://github.com/i18next/react-i18next/tree/master/example/storybook)
+* [Example locize](https://github.com/i18next/react-i18next/tree/master/example/locize)
+* [Example test-jest](https://github.com/i18next/react-i18next/tree/master/example/test-jest)
 
